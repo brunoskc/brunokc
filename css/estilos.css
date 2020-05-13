@@ -1,0 +1,44 @@
+body {
+    background: #353839;
+    font-family: Gotham;
+  }
+  
+  .menu{
+    background-color: black;
+    font-family: gotham;
+    color: white;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  a{
+    color: white;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    color: white;
+    text-align: center;
+    font-style: bold;
+    font-size: 40px;
+  }
+  
+  .site-subtitle {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+  }
+  
+  
